@@ -1,5 +1,6 @@
 # Rainbow-poem
 This is the repo for my poem
+Today is Earth Day
 The colors of the rainbow  and the unicorn and the pony is -
 Purple
 Green
